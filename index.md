@@ -57,7 +57,8 @@ LIB 211: Discerning Information in an Interconnected World (Data and Algorithmic
 `2019-Present` **Digital Archives Working Group,** California State University system-wide   
 
 ## Community Service
-
+`2016-2017` Justice & Advocacy Committee Member, North Carolina Synod of the Evangelical Lutheran Church of America
+`2014-2015` Young Adult Volunteer (YAGM), Evangelical Lutheran Church of America
 
 <!-- ### Footer
 
