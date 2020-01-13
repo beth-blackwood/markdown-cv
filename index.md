@@ -1,6 +1,5 @@
 
 # Elizabeth Blackwood
-Digital Archivist, Librarian
 
 <div id="webaddress">
 <a href="elizabethblackwood.cikeys.com">elizabethblackwood.cikeys.com</a>
@@ -32,9 +31,12 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 - Blackwood, Elizabeth. "Integrating Digital Stewardship into Academic Library Instruction." 2020. *Journal of Academic Librrianship*
 
 ## Presentations
-- From Folders to : Improving the Digital Asset Management System User Experience
+- From Folders to : Improving the Digital Asset Management System User Experience.  
+  Musuem Computer Network Annual Conference, Denver, CO, November 2018
 - Fostering an Institutional Awareness for Copyright and Licensing
-- DAM Careers Forum: Paths in, Across and Upward
+  Best Practices Exchange, Columbus, OH, March 2019
+- DAM Careers Forum: Paths in, Across and Upward (Panel Discussion)
+  Henry Stewart Digital Asset Management Conference, November 2019
 
 ## Grants
 - CSU Wide AWS Grant
@@ -42,8 +44,12 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 
 
 ## Media and Blogs
+- Linkedin Blog
 
-## 
+## Service
+`2019-Present` Faculty Affairs Committee
+`2019-Present` Scholarly Communications Committee, California State University system-wide
+`2019-Present` Digital Archives Working Group, California State University system-wide
 
 
 
