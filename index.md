@@ -17,6 +17,12 @@ __University of North Carolina at Chapel Hill__
 - Master of Science in Library Science | *Certificate in Digital Curation*
 
 ## Professional Appointments
+`2019-Present` 
+__California State University Channel Islands,__ Digital Archivist, Assistant Librarian   
+`2017-2019` __Hillwood Estate, Museum & Gardens,__ Digital Asset Manager   
+`2015-2017` __North Carolina Digital Heritage Center,__ Graduate Research Assistant   
+`2013` __Library of Congress, Geography & Map Division,__ Junior Research Fellow   
+
 
 ## Publications
 - Blackwood, Elizabeth; Joubert, Doug; Sobczak, James. 2019. <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/STL%20Data%20Curation%20Primer/STL-data-curation-primer.md">STL Data Curation Primer</a>. Data Curation Network GitHub Repository.
