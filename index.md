@@ -8,12 +8,12 @@
 ## Education
 
 `2010-2014`
-__Duke University__
-- Bachelor of Arts in History, Minor in Art History | *Graduation with Distinction*
+__Duke University__   
+Bachelor of Arts in History, Minor in Art History | *Graduation with Distinction*
 
 `2015-2017`
-__University of North Carolina at Chapel Hill__
-- Master of Science in Library Science | *Certificate in Digital Curation*
+__University of North Carolina at Chapel Hill__   
+Master of Science in Library Science | *Certificate in Digital Curation*
 
 ## Professional Appointments
 `2019-Present` 
@@ -28,7 +28,7 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 ## Publications
 - Blackwood, Elizabeth; Joubert, Doug; Sobczak, James. 2019. <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/STL%20Data%20Curation%20Primer/STL-data-curation-primer.md">STL Data Curation Primer</a>. Data Curation Network GitHub Repository.
 
-- Blackwood, Elizabeth. Integrating Digital Stewardship into Academic Library Instruction. *Journal of Academic Librrianship* vo. 46 no. 1. ScienceDirect, <a href="https://doi.org/10.1016/j.acalib.2019.102099">https://doi.org/10.1016/j.acalib.2019.102099</a>
+- Blackwood, Elizabeth. Integrating Digital Stewardship into Academic Library Instruction. *Journal of Academic Librarianship* vo. 46 no. 1. ScienceDirect, <a href="https://doi.org/10.1016/j.acalib.2019.102099">https://doi.org/10.1016/j.acalib.2019.102099</a>
 
 ## Presentations
 - **"From Folders to Facets: Improving the Digital Asset Management System User Experience for Creative Types"**   
@@ -47,7 +47,7 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 ## Media and Blogs
 - Blackwood, Elizabeth. Professional Networks: The Alumni Association for DAM. *LinkedIn.* September 30, 2019. <a href= "https://www.linkedin.com/pulse/professional-networks-alumni-association-dam-elizabeth-blackwood/"><https://www.linkedin.com/pulse/professional-networks-alumni-association-dam-elizabeth-blackwood/</a>
 
-## For Credit Courses
+## For-Credit Courses
 **California State University Channel Islands**   
 LIB 211: Discerning Information in an Interconnected World (Data and Algorithmic Literacy)
 
@@ -57,11 +57,11 @@ LIB 211: Discerning Information in an Interconnected World (Data and Algorithmic
 `2019-Present` **Digital Archives Working Group,** California State University system-wide   
 
 ## Community Service
-`2016-2017` Justice & Advocacy Committee Member, North Carolina Synod of the Evangelical Lutheran Church of America
+`2016-2017` Justice & Advocacy Committee Member, North Carolina Synod of the Evangelical Lutheran Church of America   
 `2014-2015` Young Adult Volunteer (YAGM), Evangelical Lutheran Church of America
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2020 -->
 
 
