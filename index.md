@@ -34,7 +34,7 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 - **"From Folders to Facets: Improving the Digital Asset Management System User Experience for Creative Types"**   
   Musuem Computer Network Annual Conference, Denver, CO, November 15, 2018
 - **"Fostering an Institutional Awareness for Copyright and Licensing"**
-  Best Practices Exchange, Columbus, OH, April 29, 2019
+  <a href="https://bpexchange.wordpress.com/2019-conference/2019-schedule/">Best Practices Exchange</a>, Columbus, OH, April 29, 2019
 - **"DAM Careers Forum: Paths in, Across and Upward" (Panel Discussion)**
   Henry Stewart Digital Asset Management Conference, November 7, 2019
 
@@ -45,7 +45,10 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
  
 
 ## Media and Blogs
-- "Professional Networks: The Alumni Association for DAM"
+- Blackwood, Elizabeth. Professional Networks: The Alumni Association for DAM. *LinkedIn.* September 30, 2019. <a href= "https://www.linkedin.com/pulse/professional-networks-alumni-association-dam-elizabeth-blackwood/"><https://www.linkedin.com/pulse/professional-networks-alumni-association-dam-elizabeth-blackwood/</a>
+
+## For Credit Courses
+
 
 ## University Service
 `2019-Present` **Faculty Affairs Committee**   
