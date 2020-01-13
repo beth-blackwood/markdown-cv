@@ -39,9 +39,10 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
   Henry Stewart Digital Asset Management Conference, November 7, 2019
 
 ## Grants
-- CSU Wide AWS Grant
-- California State University Channel Islands Faculty Mini Grant
-
+**Funding totals to present: $17,990**   
+`2020` California State University Channel Islands Faculty Research and Development Mini Grant   
+`2019` Amazon Web Services Research Computing Credits Grant, California State University system  
+ 
 
 ## Media and Blogs
 - "Professional Networks: The Alumni Association for DAM"
