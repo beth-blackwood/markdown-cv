@@ -2,7 +2,7 @@
 # Elizabeth Blackwood
 
 <div id="webaddress">
-<a href="elizabethblackwood.cikeys.com">elizabethblackwood.cikeys.com</a>
+<a href="http://elizabethblackwood.cikeys.com/">elizabethblackwood.cikeys.com</a>
 </div>
 
 ## Education
