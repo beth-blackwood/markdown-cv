@@ -48,7 +48,7 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 - Blackwood, Elizabeth. Professional Networks: The Alumni Association for DAM. *LinkedIn.* September 30, 2019. <a href= "https://www.linkedin.com/pulse/professional-networks-alumni-association-dam-elizabeth-blackwood/"><https://www.linkedin.com/pulse/professional-networks-alumni-association-dam-elizabeth-blackwood/</a>
 
 ## For Credit Courses
-**California State University Channel Islands**
+**California State University Channel Islands**   
 LIB 211: Discerning Information in an Interconnected World (Data and Algorithmic Literacy)
 
 ## University Service
