@@ -20,8 +20,10 @@ __University of North Carolina at Chapel Hill__
 `2019-Present` 
 __California State University Channel Islands,__ Digital Archivist, Assistant Librarian   
 `2017-2019` __Hillwood Estate, Museum & Gardens,__ Digital Asset Manager   
-`2015-2017` __North Carolina Digital Heritage Center,__ Graduate Research Assistant   
+`2015-2017` __North Carolina Digital Heritage Center,__ Graduate Research Assistant  
+`2016` __Duke University Libraries, Data & Visualization Services,__ Department Intern   
 `2013` __Library of Congress, Geography & Map Division,__ Junior Research Fellow   
+`2012-2014` __John Hope Franklin Humanities Institute,__ Research Team Lead   
 
 
 ## Publications
@@ -30,7 +32,9 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 - Blackwood, Elizabeth. "Integrating Digital Stewardship into Academic Library Instruction." 2020. *Journal of Academic Librrianship*
 
 ## Presentations
-
+- From Folders to : Improving the Digital Asset Management System User Experience
+- Fostering an Institutional Awareness for Copyright and Licensing
+- DAM Careers Forum: Paths in, Across and Upward
 
 ## Grants
 - CSU Wide AWS Grant
