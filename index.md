@@ -16,17 +16,19 @@ __Duke University__
 __University of North Carolina at Chapel Hill__
 - Master of Science in Library Science | *Certificate in Digital Curation*
 
-## Publications
+## Professional Appointments
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Publications
+- Blackwood, Elizabeth; Joubert, Doug; Sobczak, James. 2019. <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/STL%20Data%20Curation%20Primer/STL-data-curation-primer.md">STL Data Curation Primer</a>. Data Curation Network GitHub Repository.
+
+- Blackwood, Elizabeth. "Integrating Digital Stewardship into Academic Library Instruction." 2020. *Journal of Academic Librrianship*
 
 ## Presentations
 
 
 ## Grants
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- CSU Wide AWS Grant
+- California State University Channel Islands Faculty Mini Grant
 
 
 ## Media and Blogs
