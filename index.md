@@ -31,12 +31,12 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 - Blackwood, Elizabeth. Integrating Digital Stewardship into Academic Library Instruction. *Journal of Academic Librrianship* vo. 46 no. 1. ScienceDirect, <a href="https://doi.org/10.1016/j.acalib.2019.102099">https://doi.org/10.1016/j.acalib.2019.102099</a>
 
 ## Presentations
-- From Folders to : Improving the Digital Asset Management System User Experience.  
-  Musuem Computer Network Annual Conference, Denver, CO, November 2018
-- Fostering an Institutional Awareness for Copyright and Licensing
-  Best Practices Exchange, Columbus, OH, March 2019
-- DAM Careers Forum: Paths in, Across and Upward (Panel Discussion)
-  Henry Stewart Digital Asset Management Conference, November 2019
+- "From Folders to Facets: Improving the Digital Asset Management System User Experience for Creative Types"   
+  Musuem Computer Network Annual Conference, Denver, CO, November 15, 2018
+- "Fostering an Institutional Awareness for Copyright and Licensing"
+  Best Practices Exchange, Columbus, OH, April 29, 2019
+- "DAM Careers Forum: Paths in, Across and Upward" (Panel Discussion)
+  Henry Stewart Digital Asset Management Conference, November 7, 2019
 
 ## Grants
 - CSU Wide AWS Grant
