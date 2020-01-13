@@ -1,42 +1,25 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Elizabeth Blackwood
+Digital Archivist, Librarian
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="elizabethblackwood.cikeys.com">elizabethblackwood.cikeys.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Assistant Librarian, Digital Achivist @ California State University Channel Islands
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2014`
+__Duke University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2017`
+__University of North Carolina at Chapel Hill__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
 
 - Fellow
 
