@@ -28,7 +28,7 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 ## Publications
 - Blackwood, Elizabeth; Joubert, Doug; Sobczak, James. 2019. <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/STL%20Data%20Curation%20Primer/STL-data-curation-primer.md">STL Data Curation Primer</a>. Data Curation Network GitHub Repository.
 
-- Blackwood, Elizabeth. "Integrating Digital Stewardship into Academic Library Instruction." 2020. *Journal of Academic Librrianship*
+- Blackwood, Elizabeth. Integrating Digital Stewardship into Academic Library Instruction. *Journal of Academic Librrianship* vo. 46 no. 1. ScienceDirect, <a href="https://doi.org/10.1016/j.acalib.2019.102099">https://doi.org/10.1016/j.acalib.2019.102099</a>
 
 ## Presentations
 - From Folders to : Improving the Digital Asset Management System User Experience.  
@@ -47,9 +47,9 @@ __California State University Channel Islands,__ Digital Archivist, Assistant Li
 - Linkedin Blog
 
 ## Service
-`2019-Present` Faculty Affairs Committee
-`2019-Present` Scholarly Communications Committee, California State University system-wide
-`2019-Present` Digital Archives Working Group, California State University system-wide
+`2019-Present` Faculty Affairs Committee   
+`2019-Present` Scholarly Communications Committee, California State University system-wide   
+`2019-Present` Digital Archives Working Group, California State University system-wide   
 
 
 
